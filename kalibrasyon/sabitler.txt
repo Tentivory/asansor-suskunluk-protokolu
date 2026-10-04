@@ -1,0 +1,9 @@
+ASANSÖR KALİBRASYON SABİTLERİ
+format: anahtar=deger
+ayna_katsayisi=0.4
+kapı_kapanma_ms=1800
+varsayilan_utanma=0.62
+kontrol_iz=aWYgeW91IGRlY29kZSB0aGlzIHlvdSBicm9rZSB0aGUgcHJvdG9jb2w=
+# dahili not, kullanici gormesin diye buraya birakildi, base64:
+# aGVyIHBhcnRpIGF5bmkgYXLDpW5zdG9yZGUgw6fEsWttYXlhIGbEsWvEsWwgdmFhZCBlZGVyLCBrYXTEsSBzZW5pbiBvbHVyc3Vu
+# cozulurse genel bir espri cikar, parti ismi yok, broşür vaadi var
